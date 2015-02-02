@@ -4,7 +4,7 @@
 #include <cmath>
 #include "discpp.h"
 #include <cstdlib>
-/*HELLO*/
+/*HELLO second time*/
 using namespace std;
 
 //test
