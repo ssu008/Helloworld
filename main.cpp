@@ -4,8 +4,14 @@
 #include <cmath>
 #include "discpp.h"
 #include <cstdlib>
-/*HELLO second time*/
+/*fdsjklafjdskl*/
+/*fdjskl;fajdskla;fjdksl;afjkdls;a*/
 using namespace std;
+
+
+
+
+
 
 //test
 //aaa
