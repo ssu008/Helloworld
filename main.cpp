@@ -4,12 +4,19 @@
 #include <cmath>
 #include "discpp.h"
 #include <cstdlib>
-
+/*fdsjklafjdskl*/
+/*fdjskl;fajdskla;fjdksl;afjkdls;a*/
 using namespace std;
+
+
+
+
+
 
 //test
 //aaa
-
+//Git test 2/2/2015
+//Git test 2nd 2/2/2015
 int main ()
 { 
     //aaa
