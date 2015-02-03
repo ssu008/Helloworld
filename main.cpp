@@ -9,7 +9,7 @@
 using namespace std;
 
 
-
+/*fjdksl;afjdkls;afjdkls;afjkdlsafjdks HELLO*/
 
 
 
@@ -21,7 +21,7 @@ int main ()
 { 
     //aaa
     Dislin g;
-    int Step = 20000;
+    fdsfsfdsfdsfds HELLO;
     int ic;
     int n = Step;
     double temp = 0.0;
